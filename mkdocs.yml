@@ -8,7 +8,6 @@ theme:
      text: Merriweather Sans
      code: Red Hat Mono
    features: 
-    - navigation.tabs
     - navigation.paths
     - navigation.footer
     - navigation.indexes

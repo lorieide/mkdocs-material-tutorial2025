@@ -1,3 +1,3 @@
-# Welcome to Doggies as a Service (DaaS)
+# Welcome to the DaaS API Integration Guide
 
-![Doggies](doggies.jpg)
+![Doggies](assets/doggies.jpg)

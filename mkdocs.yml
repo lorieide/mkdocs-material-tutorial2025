@@ -33,7 +33,7 @@ nav:
     - Retrieve and Manage Documents: document-retrieve-manage.md
     - Retrieve and Manage Templates: document-templates-manage.md
   - Reference:
-    - Data Structres: data-structures.md
+    - Data Structures: data-structures.md
     - API Reference: https://cdl-justice.dev.cdlcloud.co.uk/ 
     - Error Codes: error-codes.md
     - Change History: change-history.md

@@ -1,5 +1,5 @@
 site_name: Doggies as a Service (DaaS) API Documentation
-site_url: ""
+site_url: "mkdocs-material-tutorial2025"
 use_directory_urls: false
 theme: 
    name: material

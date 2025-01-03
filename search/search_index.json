@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Welcome to the DaaS API Integration Guide","text":""},{"location":"get-started.html","title":"What this API does","text":"<p>test</p>"}]}

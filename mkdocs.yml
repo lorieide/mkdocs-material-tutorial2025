@@ -34,7 +34,7 @@ nav:
     - Retrieve and Manage Templates: document-templates-manage.md
   - Reference:
     - Data Structures: data-structures.md
-    - API Reference: https://cdl-justice.dev.cdlcloud.co.uk/ 
+    - API Reference: https://documents-as-a-service-cheshire-datasystems-insu-15cd91f7a27ec9.gitlab.io/
     - Error Codes: error-codes.md
     - Change History: change-history.md
 

@@ -16,8 +16,6 @@ theme:
     - navigation.instant.prefetch 
     - navigation.instant.progress
 
-repo_url: https://gitlab.com/cheshire-datasystems/insurance-retail/squad-8/documents-as-a-service/documents-as-a-service
-repo_name: GitLab
 edit_uri: blob/master/docs
 
 plugins:
